@@ -4,10 +4,10 @@ import { useState } from "react"
 import Link from "next/link"
 import { Button } from "@/components/ui/button"
 import { useTranslation } from "@/lib/i18n"
-import { Menu, X, Globe } from "lucide-react"
+import { Menu, X } from "lucide-react"
 
 export function Header() {
-  const { t, language, toggleLanguage } = useTranslation()
+  const { t } = useTranslation()
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
 
   const scrollToSection = (sectionId: string) => {
@@ -53,12 +53,6 @@ export function Header() {
 
           {/* Desktop Actions */}
           <div className="hidden md:flex items-center space-x-4">
-            {/* Language Toggle */}
-            <Button variant="ghost" size="sm" onClick={toggleLanguage} className="flex items-center space-x-1">
-              <Globe className="w-4 h-4" />
-              <span className="text-sm font-medium">{language.toUpperCase()}</span>
-            </Button>
-
             {/* Download Button */}
             <Button
               onClick={() => scrollToSection("download")}
@@ -88,12 +82,7 @@ export function Header() {
                 </button>
               ))}
 
-              <div className="flex items-center justify-between px-3 py-2">
-                <Button variant="ghost" size="sm" onClick={toggleLanguage} className="flex items-center space-x-1">
-                  <Globe className="w-4 h-4" />
-                  <span className="text-sm font-medium">{language.toUpperCase()}</span>
-                </Button>
-
+              <div className="flex items-center justify-end px-3 py-2">
                 <Button
                   onClick={() => scrollToSection("download")}
                   size="sm"
