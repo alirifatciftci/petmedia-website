@@ -1,0 +1,88 @@
+{
+  "nav": {
+    "features": "Özellikler",
+    "map": "Harita",
+    "screenshots": "Ekran Görüntüleri",
+    "faq": "SSS",
+    "contact": "İletişim",
+    "download": "İndir"
+  },
+  "hero": {
+    "title": "Dostlarımızı yalnız bırakmıyoruz.",
+    "subtitle": "PetMedia, sahiplendirme sürecini kolay ve güvenli hale getirir; haritada mama/su noktalarıyla topluluğu bir araya getirir.",
+    "downloadApp": "Uygulamayı İndir"
+  },
+  "features": {
+    "title": "Özellikler",
+    "adoption": {
+      "title": "Dostlarımıza Yuva",
+      "description": "Güvenli sahiplendirme süreci ile evcil hayvanlar için yeni aileler bulun."
+    },
+    "community": {
+      "title": "Dostlarımıza Arkadaş",
+      "description": "Pet severlerle bağlantı kurun ve deneyimlerinizi paylaşın."
+    },
+    "feeding": {
+      "title": "Bir kap mama / Bir kap su",
+      "description": "Sokak hayvanları için mama ve su noktalarını haritada keşfedin."
+    }
+  },
+  "map": {
+    "title": "Topluluk Haritası",
+    "description": "Çevrenizdeki mama/su noktalarını keşfedin ve yeni noktalar ekleyin."
+  },
+  "howItWorks": {
+    "title": "Nasıl Çalışır?",
+    "step1": {
+      "title": "Keşfet",
+      "description": "Sahiplendirilmeyi bekleyen dostlarımızı inceleyin."
+    },
+    "step2": {
+      "title": "Başvur & Sohbet Et",
+      "description": "İlgilendiğiniz hayvan için başvuru yapın ve sahipleriyle iletişime geçin."
+    },
+    "step3": {
+      "title": "Tanış & Sahiplen",
+      "description": "Güvenli ortamda tanışın ve yeni aile üyenizi evinize götürün."
+    }
+  },
+  "trust": {
+    "title": "Güven & Güvenlik",
+    "verification": "Kimlik doğrulama sistemi",
+    "location": "Konum gizliliği koruması",
+    "exif": "Fotoğraf meta verisi temizleme",
+    "report": "Şüpheli durumları bildirme"
+  },
+  "testimonials": {
+    "title": "Kullanıcı Yorumları",
+    "testimonial1": "PetMedia sayesinde kedim Luna'ya harika bir yuva buldum. Süreç çok güvenli ve kolaydı!",
+    "testimonial2": "Harita özelliği sayesinde mahallemizdeki mama noktalarını keşfettim. Harika bir topluluk!",
+    "testimonial3": "Uygulama çok kullanıcı dostu. Sahiplendirme süreci hiç bu kadar kolay olmamıştı."
+  },
+  "faq": {
+    "title": "Sıkça Sorulan Sorular",
+    "q1": "PetMedia nasıl çalışır?",
+    "a1": "PetMedia, pet sahiplendirme sürecini kolaylaştıran ve topluluk haritası ile mama/su noktalarını paylaşmanızı sağlayan bir mobil uygulamadır.",
+    "q2": "Uygulama güvenli mi?",
+    "a2": "Evet, kimlik doğrulama, konum gizliliği ve şüpheli durumları bildirme gibi güvenlik önlemleri alıyoruz.",
+    "q3": "Sahiplendirme ücretsiz mi?",
+    "a3": "Evet, PetMedia üzerinden sahiplendirme işlemleri tamamen ücretsizdir.",
+    "q4": "Haritaya nasıl nokta eklerim?",
+    "a4": "Uygulama içinden kolayca yeni mama/su noktaları ekleyebilir ve mevcut noktaları güncelleyebilirsiniz.",
+    "q5": "Hangi şehirlerde aktif?",
+    "a5": "Şu anda Türkiye'nin tüm şehirlerinde hizmet veriyoruz.",
+    "q6": "Teknik destek nasıl alırım?",
+    "a6": "Uygulama içi destek bölümünden veya info@petmedia.app adresinden bize ulaşabilirsiniz."
+  },
+  "cta": {
+    "title": "Hemen Başlayın",
+    "subtitle": "PetMedia topluluğuna katılın ve dostlarımıza yardım edin.",
+    "newsletter": "E-bülten için e-posta adresinizi girin",
+    "subscribe": "Abone Ol"
+  },
+  "footer": {
+    "terms": "Kullanım Şartları",
+    "privacy": "Gizlilik Politikası",
+    "contact": "İletişim"
+  }
+}
